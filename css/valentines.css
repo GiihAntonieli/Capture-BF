@@ -8,7 +8,8 @@
 body, html{
     width: 98.7vw;
     height: 100vh;
-    background-color: darkgrey;
+    /*background-color: darkgrey;*/
+    background-color: transparent;
 }
 
 header, footer{
@@ -109,7 +110,8 @@ footer > p{
     body, html{
         width: 96.5vw;
         height: 100vh;
-        background-color: darkgrey;
+        /*background-color: darkgrey;*/
+        background-color: transparent;
     }
 
     header > h1{
@@ -156,7 +158,8 @@ footer > p{
     body, html{
         width: 98.8vw;
         height: 100vh;
-        background-color: darkgrey;
+        /*background-color: darkgrey;*/
+        background-color: transparent;
     }
 
     header > h1{
@@ -209,7 +212,8 @@ footer > p{
     body, html{
         width: 97.9vw;
         height: 100vh;
-        background-color: darkgrey;
+        /*background-color: darkgrey;*/
+        background-color: transparent;
     }
 
     section#img1{
@@ -230,7 +234,8 @@ footer > p{
     body, html{
         width: 98.3vw;
         height: 100vh;
-        background-color: darkgrey;
+        /*background-color: darkgrey;*/
+        background-color: transparent;
         color: white;
     }
     
@@ -241,7 +246,8 @@ footer > p{
     body, html{
         width: 98.6vw;
         height: 100vh;
-        background-color: darkgrey;
+        /*background-color: darkgrey;*/
+        background-color: transparent;
     }
     
 }
